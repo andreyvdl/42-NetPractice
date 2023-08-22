@@ -29,7 +29,7 @@
 			level9.json,
 			level10.json
 		</td>
-		<td>
+		<td align="center">
 			0/100%
 			<br>
 			(this time is really only possbile to get 100%)
