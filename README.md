@@ -30,7 +30,7 @@
 			level10.json
 		</td>
 		<td align="center">
-			0/100%
+			100/100%
 			<br>
 			(this time is really only possbile to get 100%)
 		</td>
